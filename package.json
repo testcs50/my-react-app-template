@@ -1,5 +1,5 @@
 {
-  "name": "contactsbook",
+  "name": "my-react-app-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,17 +9,9 @@
     "prod": "webpack --mode production",
     "watch": "webpack --watch"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/testcs50/contactsbook.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/testcs50/contactsbook/issues"
-  },
-  "homepage": "https://github.com/testcs50/contactsbook#readme",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
